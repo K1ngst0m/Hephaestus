@@ -1,6 +1,6 @@
-* LearnVulkan
+* Hephaestus
 
-LearnOpenGL but Vulkan implementation
+Vulkan Sandbox
 
 ** Cloning
 
